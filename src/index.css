@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+body {
+  font-family: 'Caveat Brush', cursive;
+  font-size: 16px;
+  height: 100%;
+  width: 100%;
+  background-color: #1f1f1f;
+}
