@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7073b200.css",
+    "main.js": "/static/js/main.4ced5135.js",
+    "static/media/progulki.png": "/static/media/progulki.0f6ad7ac6c09e95ee84e.png",
+    "static/media/beautySalon.png": "/static/media/beautySalon.28cdeb3e6bb22d46d3f7.png",
+    "static/media/pizza.png": "/static/media/pizza.e51698ab7c0a40ed2936.png",
+    "static/media/russiaTrip.png": "/static/media/russiaTrip.5d53ef05bff2a0a9b50e.png",
+    "static/media/letter1.png": "/static/media/letter1.094b253be73a4adcb267.png",
+    "static/media/mesto.png": "/static/media/mesto.3c0f386ee94ef985bdba.png",
+    "static/media/howToLearn.png": "/static/media/howToLearn.6eb79510ac670b7982d6.png",
+    "static/media/taxi.png": "/static/media/taxi.528f0ac67fc8c0f53d0b.png",
+    "static/media/letter2.png": "/static/media/letter2.a68b0fe0f7ec2102a1f4.png",
+    "static/media/designStudio.png": "/static/media/designStudio.ba3573a4a8ff4b35409e.png",
+    "static/media/toDo.png": "/static/media/toDo.60806629a502c0caecb8.png",
+    "index.html": "/index.html",
+    "main.7073b200.css.map": "/static/css/main.7073b200.css.map",
+    "main.4ced5135.js.map": "/static/js/main.4ced5135.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7073b200.css",
+    "static/js/main.4ced5135.js"
+  ]
+}
