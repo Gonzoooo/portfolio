@@ -7,7 +7,9 @@ import About from "../About/About";
 function Main() {
   return (
     <main className="main">
-      <h1 className="main__header">Let me introduce my portfolio</h1>
+      <h1 className="main__header">
+        <span>&#60;Let me introduce my portfolio&#47;&#62;</span>
+      </h1>
         <About />
         <Works />
         <Contacts />

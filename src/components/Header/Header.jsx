@@ -8,13 +8,15 @@ function Header() {
         <a className="nav__logo"
            href="https://github.com/Gonzoooo"
            target="_blank"
-           rel="noreferrer">Gatarto</a>
+           rel="noreferrer">
+          <p>Olga Smirnova &#10072; Frontend-developer</p>
+        </a>
         <ul className="nav__links">
           <li className="nav__link">
-            <a href="#works">Works</a>
+            <a href="#about">About</a>
           </li>
           <li className="nav__link">
-            <a href="#about">About</a>
+            <a href="#works">Works</a>
           </li>
           <li className="nav__link">
             <a href="#contact">Contacts</a>

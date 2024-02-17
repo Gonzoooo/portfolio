@@ -12,20 +12,20 @@ function Contacts() {
             target="_blank"
             rel="noreferrer"
           >
-            LinkedIn
-          </a>
-        </li>
-        <li className="contacts__item">
-          <a
-            href="https://github.com/Gonzoooo"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Github
+            <i className="devicon-linkedin-plain"></i>
           </a>
         </li>
         <li className="contacts__item">
           <a href="mailto:gatarto@yandex.ru">Mail</a>
+        </li>
+        <li className="contacts__item">
+          <a
+              href="https://github.com/Gonzoooo"
+              target="_blank"
+              rel="noreferrer"
+          >
+            <i className="devicon-github-original"></i>
+          </a>
         </li>
       </ul>
     </div>

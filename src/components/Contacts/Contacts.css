@@ -1,5 +1,5 @@
 .contacts__header {
-  font-size: calc(1em + 2vw);
+  font-size: 2em;
   text-align: right;
 }
 
@@ -10,11 +10,11 @@
   flex-wrap: wrap;
   gap: 10%;
   list-style-type: none;
-  padding: 4% 0;
+  padding: 2% 0;
 }
 
 .contacts__item {
-  font-size: calc(1em + 2vw);
+  font-size: 1.5em;
   text-decoration: none;
   text-align: center;
   padding: 1%;
@@ -22,35 +22,13 @@
 
 .contacts__item:hover {
   box-sizing: border-box;
-  background: rgb(251, 63, 63);
-  background: linear-gradient(
-    90deg,
-    rgba(251, 63, 63, 1) 0%,
-    rgba(251, 148, 8, 1) 5%,
-    rgba(240, 255, 26, 1) 10%,
-    rgba(3, 255, 0, 1) 15%,
-    rgba(0, 255, 254, 1) 20%,
-    rgba(0, 24, 251, 1) 25%,
-    rgba(240, 5, 5, 1) 30%,
-    rgba(240, 176, 5, 1) 35%,
-    rgba(240, 224, 5, 1) 40%,
-    rgba(5, 240, 235, 1) 45%,
-    rgba(5, 47, 240, 1) 50%,
-    rgba(141, 5, 240, 1) 55%,
-    rgba(240, 18, 5, 1) 60%,
-    rgba(240, 168, 5, 1) 65%,
-    rgba(10, 5, 240, 1) 70%,
-    rgba(5, 240, 231, 1) 75%,
-    rgba(141, 5, 240, 1) 80%,
-    rgba(240, 18, 5, 1) 85%,
-    rgba(240, 168, 5, 1) 90%,
-    rgba(240, 228, 5, 1) 95%,
-    rgba(75, 240, 5, 1) 100%
-  );
+  background: var(--rainbow-color, rgb(251, 63, 63));
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 4px transparent;
+  color: #fff;
 }
 
 .contacts__item a {
   text-decoration: none;
+  font-size: 1.5em;
 }

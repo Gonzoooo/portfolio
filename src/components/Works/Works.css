@@ -1,5 +1,5 @@
 .work__header {
-  font-size: calc(1em + 2vw);
+  font-size: 2em;
   text-align: right;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .work__description {
-  font-size: calc(1em + 2vw);
+  font-size: 1.5em;
   grid-column-start: 1;
   grid-row-start: 1;
   padding: 4%;

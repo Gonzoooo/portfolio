@@ -1,10 +1,24 @@
 .about__header {
-  font-size: calc(1em + 2vw);
+  font-size: 2em;
   text-align: right;
 }
 
 .about__text {
-  font-size: calc(1em + 2vw);
+  font-size: 1.5em;
   text-align: center;
-  padding: 4% 0;
+  padding: 5% 0 0;
+}
+
+.about__icons {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  flex-wrap: wrap;
+  font-size: 3em;
+  padding: 5% 0 0;
+
+  background: var(--rainbow-color, red);
+  -webkit-background-clip: text;
+  -webkit-text-stroke: 2px transparent;
+  color: #fff;
 }

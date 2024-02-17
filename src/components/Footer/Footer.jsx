@@ -4,7 +4,7 @@ import "./Footer.css";
 function Footer() {
   return (
     <footer className="footer">
-      {new Date().getFullYear()} &#169; Olga Smirnova
+      {new Date().getFullYear()} &#169; Gatarto
     </footer>
   );
 }
